@@ -169,8 +169,8 @@
                 </div> <!-- .ccr-gallery-ttile -->
 
                 <div class="sidebar-video">
-                    <iframe width="340" height="195" src="https://www.youtube.com/embed/j8lM8IfOnIw" frameborder="0" allowfullscreen></iframe>
-                    Chương trình Kinh doanh & Pháp luật phát sóng định kỳ vào 17h30' Thứ bảy, phát lại vào 09h00' Chủ nhật trên Kênh VTV2 - Đài Truyền hình Việt Nam.
+                    <iframe width="340" height="195" src="https://www.youtube.com/embed/KZ8YvCRx1wg" frameborder="0" allowfullscreen></iframe>
+                    VĂN PHÒNG THỪA PHÁT LẠI ĐÔNG DƯƠNG
                 </div>
                 <div class="date-like-comment">
                     <a href="#" class="like"><i class="fa fa-thumbs-o-up"></i> 08</a>
